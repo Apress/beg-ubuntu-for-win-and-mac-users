@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=spacedrive
+Comment=Engages your starship's engines for relaxing background noise.
+Exec=spacedrive
+Icon=/usr/share/pixmaps/faces/launch.jpg
+Terminal=true
+Type=Application
+Categories=AudioVideo;Audio;Music;
