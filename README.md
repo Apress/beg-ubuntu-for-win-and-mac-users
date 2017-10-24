@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Beginning Ubuntu for Windows and Mac Users*](http://www.apress.com/9781484229996) by Nathan Haines (Apress, ).
+This repository accompanies [*Beginning Ubuntu for Windows and Mac Users*](http://www.apress.com/9781484229996) by Nathan Haines (Apress, 2017).
 
 [comment]: #cover
 ![Cover image](9781484229996.jpg)
